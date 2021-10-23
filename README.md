@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more about TypeScript.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/selver-said-38812b1b3/)
-- ⚡ Fun fact: I spend almost 3 hours reading book and playing game everyday.
+- ⚡ Fun fact: I spend almost 3 hours reading book and playing guitar everyday.
 
 ### Connect with me:
 
