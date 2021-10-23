@@ -1,6 +1,6 @@
 ### Hi there, I'm Selver 👋
 
-## I'm a Developer, Gamer, Engineer, And I'm Always A Student!!!
+## I'm a Developer, Engineer, And I'm Always A Student!!!
 <!-- - 🔭 I’m currently working on [](). -->
 
 - 🌱 I’m currently learning everything 🤣
