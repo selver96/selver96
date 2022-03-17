@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Meet with more people and improve myself in machine learning.
+- 🥅 2022 Goals: Meet with more people and improve myself in machine learning.
 - 🌱 I’m currently learning more about TypeScript.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/selver-said-38812b1b3/)
