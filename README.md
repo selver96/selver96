@@ -3,7 +3,7 @@
 ## I'm a Developer, Engineer, And I'm Always A Student!!!
 <!-- - 🔭 I’m currently working on [](). -->
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Meet with more people and improve myself in machine learning.
 - 🌱 I’m currently learning more about TypeScript.
