@@ -1,12 +1,12 @@
 ### Hi there, I'm Selver 👋
 
-## I'm a Developer, Engineer, And I'm Always A Student!!!
+## I'm a Software Engineer, And I'm Always A Student!!!
 <!-- - 🔭 I’m currently working on [](). -->
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Meet with more people and improve myself in machine learning.
-- 🌱 I’m currently learning more about TypeScript.
+- 🥅 2022 Goals: Meet with more people and improve myself in software engineering.
+- 🌱 I’m currently learning more about TypeScript, JavaScript, Python, ReactJs.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/selver-said-38812b1b3/)
 - ⚡ Fun fact: I spend almost 3 hours reading book and playing guitar everyday.
